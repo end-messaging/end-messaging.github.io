@@ -2,12 +2,10 @@
     margin: 0;
     padding: 0;
   }
-
-}
    
   body {
     margin: 20px auto;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Lato";
     font-weight: 300;
   }
    
@@ -24,7 +22,7 @@
   }
    
   input {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Lato";
   }
    
   a {
@@ -40,7 +38,7 @@
   #loginform {
     margin: 0 auto;
     padding-bottom: 25px;
-    background: #2e0252;
+    background: #eee;
     width: 600px;
     max-width: 100%;
     border: 2px solid #212121;
@@ -63,7 +61,7 @@
     margin: 0 auto;
     margin-bottom: 25px;
     padding: 10px;
-    background: #2e0252;
+    background: #fff;
     height: 300px;
     width: 530px;
     border: 1px solid #a7a7a7;
@@ -86,7 +84,7 @@
    
   #submitmsg,
   #enter{
-    background: #fff;
+    background: #ff9800;
     border: 2px solid #e65100;
     color: white;
     padding: 4px 10px;
@@ -109,7 +107,7 @@
    
   a#exit {
     color: white;
-    background: #fff;
+    background: #c62828;
     padding: 4px 8px;
     border-radius: 4px;
     font-weight: bold;
@@ -131,19 +129,13 @@
    
   .msgln b.user-name, .msgln b.user-name-left {
     font-weight: bold;
-    background: #fff;
+    background: #546e7a;
     color: white;
     padding: 2px 4px;
     font-size: 90%;
     border-radius: 4px;
     margin: 0 5px 0 0;
   }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
    
   .msgln b.user-name-left {
     background: orangered;
