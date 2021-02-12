@@ -41,7 +41,7 @@ function loginForm(){
         <meta charset="utf-8" />
  
         <title>The End</title>
-        <meta name="description" content="The End" />
+        <meta name="description" content="The End Messaging Service" />
         <link rel="stylesheet" href="style.css" />
     </head>
     <body>
@@ -53,7 +53,7 @@ function loginForm(){
     ?>
         <div id="wrapper">
             <div id="menu">
-                <p class="welcome">Welcome to The End, <b><?php echo $_SESSION['name']; ?></b></p>
+                <p class="welcome">Welcome, <b><?php echo $_SESSION['name']; ?></b></p>
                 <p class="logout"><a id="exit" href="#">Exit Chat</a></p>
             </div>
  
