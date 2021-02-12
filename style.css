@@ -40,7 +40,7 @@
   #loginform {
     margin: 0 auto;
     padding-bottom: 25px;
-    background: #eee;
+    background: #2e0252;
     width: 600px;
     max-width: 100%;
     border: 2px solid #212121;
@@ -63,7 +63,7 @@
     margin: 0 auto;
     margin-bottom: 25px;
     padding: 10px;
-    background: #fff;
+    background: #2e0252;
     height: 300px;
     width: 530px;
     border: 1px solid #a7a7a7;
@@ -86,7 +86,7 @@
    
   #submitmsg,
   #enter{
-    background: #ff9800;
+    background: #2e0252;
     border: 2px solid #e65100;
     color: white;
     padding: 4px 10px;
@@ -109,7 +109,7 @@
    
   a#exit {
     color: white;
-    background: #c62828;
+    background: #2e0252;
     padding: 4px 8px;
     border-radius: 4px;
     font-weight: bold;
@@ -131,7 +131,7 @@
    
   .msgln b.user-name, .msgln b.user-name-left {
     font-weight: bold;
-    background: #546e7a;
+    background: #2e0252;
     color: white;
     padding: 2px 4px;
     font-size: 90%;
