@@ -86,7 +86,7 @@
    
   #submitmsg,
   #enter{
-    background: #2e0252;
+    background: #fff;
     border: 2px solid #e65100;
     color: white;
     padding: 4px 10px;
@@ -109,7 +109,7 @@
    
   a#exit {
     color: white;
-    background: #2e0252;
+    background: #fff;
     padding: 4px 8px;
     border-radius: 4px;
     font-weight: bold;
@@ -131,7 +131,7 @@
    
   .msgln b.user-name, .msgln b.user-name-left {
     font-weight: bold;
-    background: #2e0252;
+    background: #fff;
     color: white;
     padding: 2px 4px;
     font-size: 90%;
