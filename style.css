@@ -29,6 +29,14 @@
     color: #0000ff;
     text-decoration: none;
   }
+
+}
+   
+  body {
+    margin: 20px auto;
+    font-family: "Lato";
+    font-weight: 300;
+  }
    
   a:hover {
     text-decoration: underline;
