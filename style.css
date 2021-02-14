@@ -5,7 +5,7 @@
    
   body {
     margin: 20px auto;
-    font-family: "Lato";
+    font-family: sans-serif;
     font-weight: 300;
   }
    
@@ -22,7 +22,7 @@
   }
    
   input {
-    font-family: "Lato";
+    font-family: sans-serif;
   }
    
   a {
@@ -34,7 +34,7 @@
    
   body {
     margin: 20px auto;
-    font-family: "Lato";
+    font-family: sans-serif;
     font-weight: 300;
   }
    
@@ -42,8 +42,7 @@
     text-decoration: underline;
   }
    
-  #wrapper,
-  #loginform {
+  #wrapper {
     margin: 0 auto;
     padding-bottom: 25px;
     background: #eee;
